@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: halket.com/al-folio/sitemap.xml
+Sitemap: halket.com/sitemap.xml
